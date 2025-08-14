@@ -30,6 +30,7 @@ It takes an initial prompt (seed text) and generates coherent continuations usin
 ```bash
 
   python generate.py --prompt "Once upon a time"
+```
 
 ## What's Happening Here
 
